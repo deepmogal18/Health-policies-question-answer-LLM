@@ -26,7 +26,8 @@ Installation
 
 Clone the repository:
 
-git clone https://github.com/yourusername/health-insurance-qa-llm.git
+git clone https://github.com/yourusername/Health-policies-question-answer-LLM
+.git
 cd health-insurance-qa-llm
 
 
