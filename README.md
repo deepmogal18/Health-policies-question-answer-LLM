@@ -1,10 +1,12 @@
 # Health-policies-question-answer-LLM
-
+/////////////////////////////////////////////
 
 This project is an LLM-powered question answering system designed to process health policy and insurance documents (PDFs) and provide accurate, context-based answers. It uses embeddings, retrieval, and reasoning layers to parse complex insurance and healthcare policy language into user-friendly responses.
 
+//////////////////////////////////////////
 
-Features
+
+//////////   Features  //////////
 
 PDF Loader: Extracts text from insurance/healthcare policy PDFs.
 
@@ -22,7 +24,7 @@ Modular Design: Each component (loading, embedding, retrieval, answering) is iso
 
 
 
-Installation
+///////////     Installation        /////////////
 
 Clone the repository:
 
@@ -44,7 +46,7 @@ pip install -r requirements.txt
 
 
 
-Add your API keys to .env:
+/////////     Add your API keys to .env:       ///////////
 
 OPENAI_API_KEY=your_key_here
 GROQ_API_KEY=your_key_here
@@ -52,7 +54,7 @@ GROQ_API_KEY=your_key_here
 
 
 
-▶️ Usage
+/////////    Usage       //////////
 Run the API
 python app.py
 
